@@ -1,0 +1,7 @@
+{
+  "name": "VolumeBooster",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Having trouble hearing other people because voice chat is too quiet? Just want to tweak the game volume beyond its limits? This is the mod for you! General, SFX, and Voice volume limits can be configured as high as you want (via Configuration Manager)",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100", "Azumatt-Official_BepInEx_ConfigurationManager-18.2.0"]
+}

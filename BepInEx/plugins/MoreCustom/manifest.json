@@ -1,0 +1,9 @@
+{
+    "name": "MoreCustomization",
+    "version_number": "1.0.1",
+    "website_url": "https://diabolical.studio",
+    "description": "128 Character Limit For Faces, Copy/Paste in Terminal, Size Adjustment For Face",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+    ]
+}
